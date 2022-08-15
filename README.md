@@ -4,6 +4,8 @@
 ## Stage 0
 - [x] Git Basics
 - [x] Linux CLI, and HTTP
+- [x] Git Collaboration
+- [x] Intro to HTML and CSS
 
 ## Linux CLI, and HTTP
 Скрины можно увидеть по клику на кнопку ниже:
