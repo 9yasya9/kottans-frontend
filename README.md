@@ -49,3 +49,15 @@
 
 ### Review HTML and CSS
 Знакома со всем. Удивил момент с вертикальными margin - не обращала внимание раньше на их свойство collapse, если они соприкасаются.
+
+## Responsive Web Design
+<details>
+<img src="task_responsive_web_design/1.png" width="300px">
+
+<img src="task_responsive_web_design/2.png" width="300px">
+
+</details>
+
+### Responsive Web Design
+Сейчас я верстаю при помощи Grids (Material UI), но ранее использовала и Bootstrap.
+Некоторые задания были сложными для меня, но познавательно (с 25 уровня). Интересно было играть с лягушками. Очень классная игра для новичков и разобраться во flex.
