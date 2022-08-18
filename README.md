@@ -55,7 +55,6 @@
 <img src="task_responsive_web_design/1.png" width="300px">
 
 <img src="task_responsive_web_design/2.png" width="300px">
-
 </details>
 
 ### Responsive Web Design
